@@ -1,11 +1,25 @@
-<!DOCTYPE html>
-<html lang="sv">
-<head>
-    <meta charset="UTF-8">
-    <title>FutureTech Sweden</title>
-</head>
-<body>
-    <h1>Välkommen till FutureTech Sweden</h1>
-    <p>Här kommer framtidens AI-robotar och smarta prylar från Kina att recenseras.</p>
-</body>
-</html>
+---
+layout: default
+title: Home
+---
+
+<section class="hero">
+  <h1>Tomorrow's tech, spotted today.</h1>
+  <p>
+    We track the AI robots and smart gadgets coming out of Shenzhen and the rest of China —
+    and explain, in plain language, what they actually do and who they're for.
+  </p>
+</section>
+
+<section id="articles" class="post-list">
+  <h2>Latest articles</h2>
+  {% for post in site.posts %}
+    <a class="post-card" href="{{ post.url | relative_url }}">
+      <span class="post-card-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <span class="post-card-title">{{ post.title }}</span>
+      {% if post.subtitle %}<span class="post-card-excerpt">{{ post.subtitle }}</span>{% endif %}
+    </a>
+  {% else %}
+    <p>No articles yet — check back soon.</p>
+  {% endfor %}
+</section>

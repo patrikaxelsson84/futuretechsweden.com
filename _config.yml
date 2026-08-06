@@ -1,0 +1,32 @@
+title: FutureTech Sweden
+description: >-
+  AI robots and smart gadgets from China — reviewed, explained, and ranked.
+  Discover tomorrow's tech before it hits Western stores.
+url: "https://futuretechsweden.com"
+baseurl: ""
+lang: en
+
+# Markdown / build settings (defaults used by GitHub Pages)
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: /:title/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

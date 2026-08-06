@@ -104,7 +104,11 @@ themselves fast. And if you want to get hands-on and eventually build or code so
 a **mini AI robot dog** has by far the most long-term depth.
 
 We'll be publishing hands-on reviews of each of these individually — bookmark this page or follow
-along for updates as we test them.
+along for updates as we test them. Prefer something you wear instead of a desk companion? See our
+roundup of [AI wearables from China]({{ '/ai-wearables-from-china/' | relative_url }}).
+
+First time ordering from AliExpress? Our [guide to shipping, VAT, and returns for Sweden/EU buyers]({{ '/buying-from-aliexpress-sweden-eu-guide/' | relative_url }})
+covers what to expect before you check out.
 
 *Prices and availability on AliExpress change frequently — click through for the current price
 before buying.*

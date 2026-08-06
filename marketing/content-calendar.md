@@ -3,21 +3,23 @@
 Published so far:
 1. Top 5 AI Robots and Smart Gadgets From China (2026-08-06) — general intro/roundup
 2. 5 AI-Powered Smart Home Gadgets From China (2026-08-06) — smart home angle
+3. 5 AI Wearables From China Worth Knowing About (2026-08-07) — rings, pendants, posture/pet wearables
+4. Buying From AliExpress in Sweden: Shipping, VAT, and Returns Explained (2026-08-07) — practical
+   guide, not product-specific; now linked from all three product articles
+
+All four are cross-linked to each other (see "Where to Start" / closing sections in each post).
 
 ## Next up (same research/curation format, no fabricated hands-on testing claims)
 
-1. **AI Wearables From China** — smart rings (health tracking), AI pendants/pins, translation
-   earbuds deep-dive. Natural follow-on from post 1's earbuds section.
-2. **Best AliExpress AI Gadgets Under $50** — budget angle, good for impulse-buy affiliate
-   conversion, pairs well with a "beginner" TikTok audience.
-3. **Mini Robot Dogs Compared: Unitree vs Hengbot vs [X]** — deeper dive on post 1's #5 item,
+1. **Best AliExpress AI Gadgets Under $50** — budget angle, good for impulse-buy affiliate
+   conversion, pairs well with a "beginner" TikTok audience. Note: avoid stating specific prices as
+   fact in the article body since they drift — frame as "budget-tier" rather than quoting numbers,
+   and let the affiliate link show the live price.
+2. **Mini Robot Dogs Compared: Unitree vs Hengbot vs [X]** — deeper dive on post 1's #5 item,
    higher purchase intent since it's a considered buy, not impulse.
-4. **AI Desktop Companions Beyond Eilik** — category roundup (Eilik-style desk robots), rides on
+3. **AI Desktop Companions Beyond Eilik** — category roundup (Eilik-style desk robots), rides on
    post 1's #1 item continuing to perform.
-5. **How Buying From AliExpress Actually Works (Shipping, Customs, Returns for EU/Sweden)** —
-   practical/trust-building content, not product-specific, good for internal linking from every
-   product article and for people close to buying but hesitant.
-6. **AI Camera Glasses: What They Can and Can't Do Yet** — expands post 1's #3 item, sets
+4. **AI Camera Glasses: What They Can and Can't Do Yet** — expands post 1's #3 item, sets
    realistic expectations (good for trust/SEO, lower hype = more credible reviews).
 
 ## Format reminder for future posts

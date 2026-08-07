@@ -45,8 +45,10 @@ File: `_posts/2026-08-06-ai-smart-home-gadgets-china.md`
 ## Article 3 — AI Wearables
 File: `_posts/2026-08-07-ai-wearables-from-china.md`
 
-1. **AI Smart Ring** — [RingConn Gen 2 Air Smart Ring](https://www.aliexpress.com/item/1005012136973409.html)
-   (Store: 100 sold, 4★ — fine)
+1. **AI Smart Ring** — ⚠️ swapped — [Smart Ring, Heart Rate/Blood Oxygen Monitor, IP68](https://www.aliexpress.com/item/1005008763292202.html)
+   (RingConn wasn't affiliate-enrolled. Article text still mentions RingConn by name as an example
+   brand in the category — the linked product is a comparable generic smart ring, not RingConn
+   itself. Worth a look if brand accuracy matters here, same as the translator note above.)
 2. **AI Fitness Band** — [Xiaomi Smart Band 10 Pro (Global Version)](https://www.aliexpress.com/item/1005009411133355.html)
 3. **AI Translator Pendant** — ✅ swapped — [142 Languages Translator Device](https://www.aliexpress.com/item/1005009354623226.html)
    (246 sold, 63 reviews, 4.5★. Original pick had only 9 sold/3 reviews.

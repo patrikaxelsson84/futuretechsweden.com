@@ -29,7 +29,7 @@ recovery scoring meaningfully more accurate than a device you only wear part-tim
 **Who it's for:** Anyone who wants sleep and recovery tracking without committing to a smartwatch
 on their wrist all day.
 
-[Check current models on AliExpress →](https://www.aliexpress.com/item/1005012136973409.html){: .cta-button}
+[Check current models on AliExpress →](https://s.click.aliexpress.com/e/_c3jNve3D){: .cta-button}
 
 ## 2. AI Fitness Bands With Real-Time Coaching
 

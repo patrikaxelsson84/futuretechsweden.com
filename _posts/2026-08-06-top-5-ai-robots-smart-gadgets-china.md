@@ -32,7 +32,7 @@ no cloud lag, no "thinking" delay you get with app-based AI toys.
 for tech-loving friends, students, and anyone who works from home and wants a bit of personality
 nearby.
 
-[Check the current price on AliExpress →](https://www.aliexpress.com/item/1005012721004048.html){: .cta-button}
+[Check the current price on AliExpress →](https://s.click.aliexpress.com/e/_c4NBlpr5){: .cta-button}
 
 ## 2. AI Translation Earbuds
 

@@ -59,7 +59,7 @@ dial in heat and pressure separately rather than getting whatever intensity the 
 **Who it's for:** Anyone doing long screen-heavy days who wants a wind-down routine that's more
 targeted than just closing your eyes for ten minutes.
 
-[Check current models on AliExpress →](https://www.aliexpress.com/item/1005009863647471.html){: .cta-button}
+[Check current models on AliExpress →](https://s.click.aliexpress.com/e/_c4OjnqRh){: .cta-button}
 
 ## 4. AI Posture & Movement Wearables
 

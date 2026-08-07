@@ -33,12 +33,10 @@ File: `_posts/2026-08-07-ai-wearables-from-china.md`
    wasn't affiliate-enrolled — article text still mentions RingConn by name as a category example,
    worth a look if brand accuracy matters)
 2. **AI Fitness Band** (Xiaomi Smart Band 10 Pro) — tracked ✅
-3. **Smart Massage Eye Mask** — needs tracking, [Xiaomi Mijia Smart Massage Eye Mask](https://www.aliexpress.com/item/1005009863647471.html)
-   ⚠️ Item swapped entirely: after 11 total failed attempts across every "standalone AI translator
-   device" listing tried (this niche seems to have near-zero affiliate enrollment on AliExpress),
-   replaced the article's #3 item with a different product category instead of continuing to guess.
-   Article text, subtitle, and "Where to Start" section were all updated to match. Not yet
-   confirmed working in the Link Generator — try this URL next.
+3. **Smart Massage Eye Mask** — tracked ✅ (Xiaomi Mijia Smart Massage Eye Mask)
+   Item swapped entirely after 11 failed attempts across every "standalone AI translator device"
+   listing tried (that whole niche seemed to have near-zero affiliate enrollment). Article text,
+   subtitle, and "Where to Start" section were all updated to match the new item.
 4. **AI Posture Wearable** — tracked ✅ (Smart Posture Corrector Miicro)
 5. **AI Pet Collar** — tracked ✅
 

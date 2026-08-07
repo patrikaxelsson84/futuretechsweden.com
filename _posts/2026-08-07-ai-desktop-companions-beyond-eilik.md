@@ -72,7 +72,7 @@ reactive) desk companion, without Loona's price tag or Ropet's plush-toy framing
 **Who it's for:** Buyers who want to actually talk to a desk companion and get real responses,
 without spending premium-tier money to get there.
 
-[Check the current price on AliExpress →](https://www.aliexpress.com/item/1005007032217469.html){: .cta-button}
+[Check the current price on AliExpress →](https://s.click.aliexpress.com/e/_c3cIT5r5){: .cta-button}
 
 ## Where to Start
 

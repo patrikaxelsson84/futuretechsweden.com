@@ -60,13 +60,17 @@ File: `_posts/2026-08-07-mini-robot-dogs-toy-vs-research-grade.md`
 1. **Toy-tier robot dog** (Teeggi RC Mechanical Dog) — tracked ✅
 2. **Unitree Go2 Pro** (research-grade) — tracked ✅
 
-## Article 7 — AI Desktop Companions Beyond Eilik — needs tracking (0/4)
+## Article 7 — AI Desktop Companions Beyond Eilik ✅ all tracked
 File: `_posts/2026-08-07-ai-desktop-companions-beyond-eilik.md`
 
-1. **Loona** — [needs tracking](https://www.aliexpress.com/item/1005009212005255.html)
-2. **Emo** — [needs tracking](https://www.aliexpress.com/item/1005012526809705.html)
-3. **Ropet** — [needs tracking](https://www.aliexpress.com/item/1005010616915909.html)
-4. **Kbao** — [needs tracking](https://www.aliexpress.com/item/1005007032217469.html)
+1. **Loona** — tracked ✅ (swapped to an alternative Loona listing after the original failed
+   "non-affiliate item")
+2. **Emo** — tracked ✅
+3. **Ropet** — tracked ✅ (swapped to an alternative Ropet listing, same reason)
+4. **Kbao** — tracked ✅ ⚠️ swapped to a different, unbranded "ChatGPT AI companion toy" listing
+   after every Kbao-branded listing failed "non-affiliate item" — article text still says "Kbao"
+   by name. The generic description still fits the linked product, but worth a look/rename if
+   brand accuracy matters here, same as the RingConn note in article 3.
 
 ## Article 8 — AI Camera Glasses: What They Can and Can't Do Yet ✅ tracked
 File: `_posts/2026-08-07-ai-camera-glasses-what-they-can-and-cant-do.md`

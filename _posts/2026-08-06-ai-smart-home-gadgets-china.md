@@ -89,7 +89,7 @@ behavior looks normal.
 **Who it's for:** Families who want keyless entry for kids without giving up visibility into who's
 coming and going.
 
-[Check current models on AliExpress →](https://www.aliexpress.com/item/1005010801009445.html){: .cta-button}
+[Check current models on AliExpress →](https://s.click.aliexpress.com/e/_c4oT7cnv){: .cta-button}
 
 ## Where to Start
 

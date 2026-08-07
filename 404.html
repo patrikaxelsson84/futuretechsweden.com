@@ -1,0 +1,25 @@
+---
+layout: default
+title: Page Not Found
+permalink: /404.html
+---
+
+<section class="hero">
+  <h1>404 — Page not found</h1>
+  <p>
+    That page doesn't exist, or it moved. Try the homepage, or one of the articles below.
+  </p>
+</section>
+
+<section id="articles" class="post-list">
+  <h2>Latest articles</h2>
+  {% for post in site.posts limit:5 %}
+    <a class="post-card" href="{{ post.url | relative_url }}">
+      <span class="post-card-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <span class="post-card-title">{{ post.title }}</span>
+      {% if post.subtitle %}<span class="post-card-excerpt">{{ post.subtitle }}</span>{% endif %}
+    </a>
+  {% endfor %}
+</section>
+
+<p><a href="{{ '/' | relative_url }}">← Back to homepage</a></p>

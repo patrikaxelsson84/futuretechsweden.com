@@ -3,7 +3,9 @@ layout: default
 ---
 <article class="post">
   <header class="post-header">
-    <p class="post-meta">{{ page.date | date: "%B %-d, %Y" }}{% if page.categories %} · {{ page.categories | join: ", " }}{% endif %}</p>
+    {% assign words = content | strip_html | number_of_words %}
+    {% assign reading_time = words | divided_by: 200 | at_least: 1 %}
+    <p class="post-meta">{{ page.date | date: "%B %-d, %Y" }} · {{ reading_time }} min read{% if page.categories %} · {{ page.categories | join: ", " }}{% endif %}</p>
     <h1>{{ page.title }}</h1>
     {% if page.subtitle %}<p class="post-subtitle">{{ page.subtitle }}</p>{% endif %}
   </header>

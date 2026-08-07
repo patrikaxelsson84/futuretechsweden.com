@@ -35,9 +35,9 @@ File: `_posts/2026-08-06-ai-smart-home-gadgets-china.md`
    (20 sold, 4 reviews, 5.0★ — fine)
 2. **mmWave Presence Sensor** — [Aqara Human Presence Sensor FP1](https://www.aliexpress.com/item/1005008605446877.html)
    (8 sold — modest, but official Aqara brand, low scam risk)
-3. **AI Video Doorbell** — ✅ swapped — [Dahua VTO2211G-P-S2 Smart Video Door Phone, AI Human Detection](https://www.aliexpress.com/item/1005010168268902.html)
-   (Original Dahua DB41AB pick had only 1 sold. This one's low on its own but sold by a store with
-   176 total sales / 5.0★.)
+3. **AI Video Doorbell** — [Dahua DB41AB WiFi Doorbell, AI Human/Vehicle Detection](https://www.aliexpress.com/item/1005012751203637.html)
+   (The VTO2211G alternative wasn't affiliate-enrolled in the Link Generator, so ended up back on
+   the original DB41AB pick, which was — low sold count (1) but worked for tracking.)
 4. **Air Quality Monitor** — [Qingping Air Quality Monitor Gen 2](https://www.aliexpress.com/item/1005012218241666.html)
 5. **AI Smart Lock** — [TTLOCK WiFi 3D Facial Recognition Lock](https://www.aliexpress.com/item/1005010801009445.html)
    (38 sold, 6 reviews, 5.0★ — solid)

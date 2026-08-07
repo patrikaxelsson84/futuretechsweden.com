@@ -94,7 +94,7 @@ just buy a gadget.
 **Who it's for:** Tech enthusiasts, robotics hobbyists, and parents looking for a gift that
 teaches actual programming concepts, not just a toy.
 
-[Check the current price on AliExpress →](https://www.aliexpress.com/item/1005011931001260.html){: .cta-button}
+[Check the current price on AliExpress →](https://s.click.aliexpress.com/e/_c4WCtRAF){: .cta-button}
 
 ## Which One Should You Actually Buy First?
 

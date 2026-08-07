@@ -17,6 +17,8 @@ useful. Here are five worth knowing about.
 
 ## 1. AI Smart Rings
 
+![AI smart ring with health tracking](/assets/images/products/ring.webp){: .product-image}
+
 Smart rings from companies like RingConn (Shenzhen-based) track sleep, heart rate variability, and
 recovery, then run that data through an AI model to give you a plain-language readiness score
 instead of a wall of raw numbers. No screen, no charging every night — most last 5-7 days per
@@ -33,6 +35,8 @@ on their wrist all day.
 
 ## 2. AI Fitness Bands With Real-Time Coaching
 
+![AI fitness band with coaching](/assets/images/products/fitnessband.webp){: .product-image}
+
 The latest generation of budget fitness bands — the space Xiaomi's Mi Band line helped popularize —
 has moved past step counts and into AI-generated coaching: recommending when to push a workout
 versus rest, based on your recent strain and recovery trend, not a fixed weekly plan.
@@ -47,6 +51,8 @@ to a coaching app.
 [Check current models on AliExpress →](https://s.click.aliexpress.com/e/_c3CbGNmx){: .cta-button}
 
 ## 3. Smart Massage Eye Mask
+
+![Smart massage eye mask](/assets/images/products/eyemask.webp){: .product-image}
 
 Xiaomi's Mijia ecosystem makes a foldable eye mask that combines heat therapy, air-compression, and
 vibration massage across targeted zones, controlled through an app that lets you pick or customize
@@ -63,6 +69,8 @@ targeted than just closing your eyes for ten minutes.
 
 ## 4. AI Posture & Movement Wearables
 
+![AI posture corrector wearable](/assets/images/products/posture.webp){: .product-image}
+
 Small clip-on sensors — worn on a collar or waistband — use AI movement pattern recognition to
 detect slouching or poor lifting form and give a gentle vibration nudge in the moment, rather than
 just logging posture data for you to review later.
@@ -77,6 +85,8 @@ injury who's been told to watch their form.
 [Check current models on AliExpress →](https://s.click.aliexpress.com/e/_c2wMhNsB){: .cta-button}
 
 ## 5. AI Smart Collars for Pets
+
+![AI smart pet collar with GPS](/assets/images/products/petcollar.webp){: .product-image}
 
 Smart collars now bring the same AI activity-recognition used in human fitness wearables to dogs
 and cats — distinguishing walking from scratching from a limp, and flagging unusual patterns (like

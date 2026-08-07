@@ -29,7 +29,7 @@ lot of people gave up on them. AI-based obstacle recognition is the feature that
 **Who it's for:** Anyone who tried a robot vacuum years ago and got frustrated with it getting
 stuck — this generation solves the exact problem that turned people off.
 
-[Check current models on AliExpress →](https://www.aliexpress.com/item/1005012385211784.html){: .cta-button}
+[Check current models on AliExpress →](https://s.click.aliexpress.com/e/_c3XTutXN){: .cta-button}
 
 ## 2. mmWave AI Presence Sensors
 

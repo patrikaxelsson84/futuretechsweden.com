@@ -77,7 +77,7 @@ out.
 **Who it's for:** Students, journalists, and anyone in back-to-back meetings who wants notes
 without the manual write-up afterward.
 
-[Check the current price on AliExpress →](https://www.aliexpress.com/item/1005009726389497.html){: .cta-button}
+[Check the current price on AliExpress →](https://s.click.aliexpress.com/e/_c3bEgsG7){: .cta-button}
 
 ## 5. Mini AI Robot Dogs
 

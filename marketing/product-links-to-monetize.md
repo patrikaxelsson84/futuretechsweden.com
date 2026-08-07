@@ -23,7 +23,9 @@ File: `_posts/2026-08-06-top-5-ai-robots-smart-gadgets-china.md`
    yourself, or keep it and accept the risk — your call.
 2. **AI Translation Earbuds** — [Timekettle W4 Pro AI Interpreter Earbuds](https://www.aliexpress.com/item/1005009945946876.html)
 3. **AI Smart Glasses** — [Smart AI Glasses 4K Camera + Translation](https://www.aliexpress.com/item/1005011747518509.html)
-4. **AI Pocket Notetaker** — [AI Voice Recorder, Transcribe & Summarize](https://www.aliexpress.com/item/1005009726389497.html)
+4. **AI Pocket Notetaker** — ⚠️ swapped — [NEWYES Ailog AI Voice Recorder, Transcribe & Summarize](https://www.aliexpress.com/item/1005011905159251.html)
+   (Original pick and 3 other alternatives all failed "non-affiliate item" in the Link Generator —
+   this whole product category seems to have patchy affiliate enrollment. This one worked.)
 5. **Mini AI Robot Dog** — [AI Smart Robot Dog, Voice Control, Programmable](https://www.aliexpress.com/item/1005011931001260.html)
 
 ## Article 2 — Smart Home Gadgets

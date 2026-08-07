@@ -47,7 +47,7 @@ conversation than a translation app.
 **Who it's for:** Frequent travelers, international students, and anyone doing business across
 language barriers who wants something less clunky than a translation app.
 
-[Check the current price on AliExpress →](https://www.aliexpress.com/item/1005009945946876.html){: .cta-button}
+[Check the current price on AliExpress →](https://s.click.aliexpress.com/e/_c3y4Sg9N){: .cta-button}
 
 ## 3. AI Smart Glasses
 

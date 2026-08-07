@@ -83,7 +83,7 @@ went where it was supposed to — not just that the mechanism triggered.
 **Who it's for:** Pet owners with unpredictable schedules who want peace of mind without paying for
 the premium AI-health-monitoring collar tier we covered separately.
 
-[Check the current price on AliExpress →](https://www.aliexpress.com/item/1005012800692459.html){: .cta-button}
+[Check the current price on AliExpress →](https://s.click.aliexpress.com/e/_c3CVBv6L){: .cta-button}
 
 ## Where to Start
 

@@ -17,6 +17,8 @@ mean. Here are four more worth knowing about.
 
 ## 1. Loona
 
+![Loona AI desktop companion robot](/assets/images/products/loona.webp){: .product-image}
+
 Loona pairs a expressive, animated screen-face with real mobility — it rolls around, recognizes
 faces, and can hold basic ChatGPT-powered conversations rather than just reacting with animations.
 It's a noticeably bigger step up in capability (and price) than Eilik.
@@ -31,6 +33,8 @@ touch, and don't mind paying a premium for the extra mobility and conversational
 [Check the current price on AliExpress →](https://s.click.aliexpress.com/e/_c4smTV27){: .cta-button}
 
 ## 2. Emo
+
+![Emo AI desktop companion robot](/assets/images/products/emo.webp){: .product-image}
 
 Emo runs a similar "expressive screen face" concept to Eilik, but leans further into personality
 simulation — it develops apparent moods over time based on how it's treated, and reacts differently
@@ -47,6 +51,8 @@ that visibly changes over a longer relationship, not just a mood that resets.
 
 ## 3. Ropet
 
+![Ropet plush AI companion robot](/assets/images/products/ropet.webp){: .product-image}
+
 Ropet wraps its AI companion electronics in a plush, animal-like shell instead of a hard plastic
 screen-face — it uses facial and touch recognition to react to petting and attention, positioning
 itself closer to a soft toy with a brain than a desk gadget.
@@ -61,6 +67,8 @@ gadget-y package — including for kids, where a plush shell is a practical plus
 [Check the current price on AliExpress →](https://s.click.aliexpress.com/e/_c4sc6zRz){: .cta-button}
 
 ## 4. Budget ChatGPT-Voice Companions
+
+![Budget ChatGPT-voice desktop companion](/assets/images/products/budgetcompanion.webp){: .product-image}
 
 Beyond the named product lines above, a wider tier of smaller, simpler ChatGPT-voice-interactive
 desktop toys exists — less mobility and fewer sensors than Loona, but a straightforward

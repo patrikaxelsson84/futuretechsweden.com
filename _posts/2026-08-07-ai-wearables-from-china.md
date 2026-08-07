@@ -60,7 +60,7 @@ option for occasional use.
 **Who it's for:** Travelers who want translation on demand without wearing earbuds all day, and
 older users who may find a physical push-to-talk device more intuitive than an earbud gesture.
 
-[Check current models on AliExpress →](https://www.aliexpress.com/item/1005011773012045.html){: .cta-button}
+[Check current models on AliExpress →](https://www.aliexpress.com/item/1005009354623226.html){: .cta-button}
 
 ## 4. AI Posture & Movement Wearables
 

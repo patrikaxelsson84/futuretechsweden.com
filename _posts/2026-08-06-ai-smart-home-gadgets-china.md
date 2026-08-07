@@ -59,7 +59,7 @@ alerts entirely. AI filtering is what makes it practical to actually leave them 
 **Who it's for:** Apartment and house owners who want package/visitor alerts without a flood of
 false notifications.
 
-[Check current models on AliExpress →](https://www.aliexpress.com/item/1005012751203637.html){: .cta-button}
+[Check current models on AliExpress →](https://www.aliexpress.com/item/1005010168268902.html){: .cta-button}
 
 ## 4. AI Air Quality & Climate Monitors
 

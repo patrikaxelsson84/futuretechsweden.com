@@ -55,7 +55,7 @@ notification you'll swipe away.
 **Who it's for:** Anyone who's tried a hydration-tracking app and stopped opening it within a week —
 this removes the extra step entirely.
 
-[Check the current price on AliExpress →](https://www.aliexpress.com/item/1005009639533509.html){: .cta-button}
+[Check the current price on AliExpress →](https://s.click.aliexpress.com/e/_c4OvjlF9){: .cta-button}
 
 ## 4. AI Posture Corrector Clip
 

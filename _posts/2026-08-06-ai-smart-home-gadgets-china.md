@@ -45,7 +45,7 @@ switching off every 60 seconds.
 **Who it's for:** Anyone who has tried basic motion-sensor lighting and been irritated by it
 turning off mid-use.
 
-[Check current models on AliExpress →](https://www.aliexpress.com/item/1005008605446877.html){: .cta-button}
+[Check current models on AliExpress →](https://s.click.aliexpress.com/e/_c38zgYYT){: .cta-button}
 
 ## 3. AI Video Doorbells With Person/Package Detection
 

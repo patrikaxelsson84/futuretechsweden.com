@@ -45,4 +45,4 @@ accept the updated terms.
 
 ## Contact
 
-Questions about these terms: [hello@futuretechsweden.com](mailto:hello@futuretechsweden.com).
+Questions about these terms: [info@futuretechsweden.com](mailto:info@futuretechsweden.com).

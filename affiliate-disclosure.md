@@ -31,4 +31,4 @@ excluded from an article.
 ## Questions
 
 If you have questions about our affiliate relationships, reach out at
-[hello@futuretechsweden.com](mailto:hello@futuretechsweden.com).
+[info@futuretechsweden.com](mailto:info@futuretechsweden.com).

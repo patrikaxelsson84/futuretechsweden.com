@@ -13,4 +13,4 @@ useful for, and where to buy it.
 Some links on this site are affiliate links, meaning we may earn a small commission if you
 purchase through them, at no extra cost to you.
 
-Got a product tip? Reach out at hello@futuretechsweden.com.
+Got a product tip? Reach out at info@futuretechsweden.com.

@@ -14,7 +14,7 @@ explains what happens with your data when you visit.
 ## Information we collect
 
 We do not require you to create an account or submit personal information to read this site. If
-you email us at hello@futuretechsweden.com, we keep that correspondence to respond to you and for
+you email us at info@futuretechsweden.com, we keep that correspondence to respond to you and for
 no other purpose.
 
 ## Cookies and analytics
@@ -34,7 +34,7 @@ personal data from that tracking beyond an anonymized indication that a sale was
 
 If you're in the EU/EEA, you have rights under GDPR regarding any personal data you've shared with
 us directly (for example, via email). To request access to or deletion of that data, contact
-hello@futuretechsweden.com.
+info@futuretechsweden.com.
 
 ## Changes to this policy
 
@@ -43,4 +43,4 @@ We may update this policy as the site grows. Material changes will be reflected 
 
 ## Contact
 
-Questions about this policy: [hello@futuretechsweden.com](mailto:hello@futuretechsweden.com).
+Questions about this policy: [info@futuretechsweden.com](mailto:info@futuretechsweden.com).

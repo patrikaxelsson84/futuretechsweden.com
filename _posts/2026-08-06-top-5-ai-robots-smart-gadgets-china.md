@@ -108,7 +108,8 @@ along for updates as we test them. Prefer something you wear instead of a desk c
 roundup of [AI wearables from China]({{ '/ai-wearables-from-china/' | relative_url }}).
 
 First time ordering from AliExpress? Our [guide to shipping, VAT, and returns for Sweden/EU buyers]({{ '/buying-from-aliexpress-sweden-eu-guide/' | relative_url }})
-covers what to expect before you check out.
+covers what to expect before you check out. On a tighter budget? See our picks for
+[budget AI gadgets under $50]({{ '/budget-ai-gadgets-under-50/' | relative_url }}).
 
 *Prices and availability on AliExpress change frequently — click through for the current price
 before buying.*

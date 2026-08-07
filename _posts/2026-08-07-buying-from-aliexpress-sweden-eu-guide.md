@@ -67,6 +67,7 @@ dispute directly from your order page and request a refund or replacement. Keep 
 ## Ready to browse?
 
 Check out our roundups of [AI robots and gadgets]({{ '/top-5-ai-robots-smart-gadgets-china/' | relative_url }}),
-[AI smart home devices]({{ '/ai-smart-home-gadgets-china/' | relative_url }}), and
-[AI wearables]({{ '/ai-wearables-from-china/' | relative_url }}) for specific product
-recommendations.
+[AI smart home devices]({{ '/ai-smart-home-gadgets-china/' | relative_url }}),
+[AI wearables]({{ '/ai-wearables-from-china/' | relative_url }}), or
+[budget AI gadgets under $50]({{ '/budget-ai-gadgets-under-50/' | relative_url }}) for specific
+product recommendations.

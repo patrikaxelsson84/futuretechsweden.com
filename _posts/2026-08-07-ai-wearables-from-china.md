@@ -102,7 +102,8 @@ matters.
 Setting up more than your body? See our roundup of
 [AI smart home gadgets from China]({{ '/ai-smart-home-gadgets-china/' | relative_url }}), or our
 [guide to shipping, VAT, and returns for Sweden/EU buyers]({{ '/buying-from-aliexpress-sweden-eu-guide/' | relative_url }})
-if this is your first AliExpress order.
+if this is your first AliExpress order. On a tighter budget? See our picks for
+[budget AI gadgets under $50]({{ '/budget-ai-gadgets-under-50/' | relative_url }}).
 
 *Prices and availability on AliExpress change frequently — click through for the current price
 before buying.*

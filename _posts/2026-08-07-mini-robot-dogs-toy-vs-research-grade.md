@@ -18,6 +18,8 @@ any single listing.
 
 ## Toy-Tier (roughly $30–80)
 
+![Toy-tier RC robot dog](/assets/images/products/toydog.webp){: .product-image}
+
 This is what most "AI robot dog" listings on AliExpress actually are: remote or voice-controlled
 electronic toys that walk, sit, and perform pre-programmed routines. Some genuinely do let you
 write custom command sequences through an app.
@@ -33,6 +35,8 @@ technical project attached to it.
 [Check current toy-tier models on AliExpress →](https://s.click.aliexpress.com/e/_c3CHYDnl){: .cta-button}
 
 ## Research-Grade (roughly $2,500+)
+
+![Unitree Go2 Pro research-grade robot dog](/assets/images/products/unitree.webp){: .product-image}
 
 This is where brands like Unitree operate. Their Go2 series uses real dynamic balancing — the kind
 of control system that lets a four-legged robot get shoved, stumble, and recover its footing

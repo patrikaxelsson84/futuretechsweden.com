@@ -44,7 +44,7 @@ from yesterday, an easy day would help."
 **Who it's for:** People who want fitness guidance without paying smartwatch prices or subscribing
 to a coaching app.
 
-[Check current models on AliExpress →](https://www.aliexpress.com/item/1005009411133355.html){: .cta-button}
+[Check current models on AliExpress →](https://s.click.aliexpress.com/e/_c3CbGNmx){: .cta-button}
 
 ## 3. Standalone AI Translator Pendants
 

@@ -27,7 +27,7 @@ use is going in a home, without an electrician or a whole-home monitoring system
 **Who it's for:** Anyone curious what's actually driving their electricity bill, or who wants basic
 "turn this off automatically" scheduling without committing to a bigger smart home setup.
 
-[Check the current price on AliExpress →](https://www.aliexpress.com/item/1005007014698020.html){: .cta-button}
+[Check the current price on AliExpress →](https://s.click.aliexpress.com/e/_c3nceWGT){: .cta-button}
 
 ## 2. Budget AI Translation Earbuds
 

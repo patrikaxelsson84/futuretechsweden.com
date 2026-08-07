@@ -26,7 +26,7 @@ File: `_posts/2026-08-06-ai-smart-home-gadgets-china.md`
 4. **Air Quality Monitor** (Qingping Gen 2) — tracked ✅
 5. **AI Smart Lock** (TTLOCK) — tracked ✅
 
-## Article 3 — AI Wearables — 4/5 tracked
+## Article 3 — AI Wearables ✅ all tracked
 File: `_posts/2026-08-07-ai-wearables-from-china.md`
 
 1. **AI Smart Ring** — tracked ✅ (swapped to a generic Huawei-compatible smart ring after RingConn
@@ -56,3 +56,11 @@ File: `_posts/2026-08-07-budget-ai-gadgets-under-50.md`
 5. **Smart Pet Feeder w/ Camera** — [needs tracking](https://www.aliexpress.com/item/1005012800692459.html)
    (runs slightly over $50 depending on sales — article frames the title as "budget" rather than a
    hard $50 promise for this reason)
+
+## Article 6 — Mini Robot Dogs: Toy-Tier vs Research-Grade — needs tracking (0/2)
+File: `_posts/2026-08-07-mini-robot-dogs-toy-vs-research-grade.md`
+
+1. **Toy-tier robot dog** — [needs tracking](https://www.aliexpress.com/item/1005010132836497.html)
+   (Teeggi RC Mechanical Dog — different listing than article 1's robot dog, for variety)
+2. **Unitree Go2 Pro** (research-grade) — [needs tracking](https://www.aliexpress.com/item/1005012704498259.html)
+   (~28,700 SEK — genuinely expensive, this is accurate to the real product, not a pricing error)

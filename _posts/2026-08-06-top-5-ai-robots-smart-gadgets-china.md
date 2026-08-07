@@ -81,18 +81,18 @@ without the manual write-up afterward.
 
 ## 5. Mini AI Robot Dogs
 
-Companies like Unitree and Hengbot have pushed the price of small robotic quadrupeds down from
-research-lab territory to something an enthusiast can actually afford. These mini robot dogs walk,
-balance, and respond to voice or app commands, and some are open enough that developers can
-program custom behavior themselves.
+Small robotic quadrupeds that walk, balance, and respond to voice or app commands now exist at two
+very different price points: toy-tier versions built for fun, and research-grade platforms from
+companies like Unitree that expose a real SDK for programming actual behavior. We break down
+exactly what each tier gets you — and how big that price gap really is — in a
+[dedicated comparison]({{ '/mini-robot-dogs-toy-vs-research-grade/' | relative_url }}).
 
-**Why it's interesting:** A few years ago, a walking robot like this cost as much as a car. Now
-compact versions exist at a genuinely consumer-friendly price point, and some models expose an SDK
-so hobbyists can code their own routines — a strong hook if you want to make tech content, not
-just buy a gadget.
+**Why it's interesting:** Even the toy-tier versions are a strong hook if you want to get into
+making tech content, not just buy a gadget — they're inexpensive enough to be a low-risk first
+purchase in the category.
 
-**Who it's for:** Tech enthusiasts, robotics hobbyists, and parents looking for a gift that
-teaches actual programming concepts, not just a toy.
+**Who it's for:** Tech enthusiasts and parents looking for a fun gift; see our tier breakdown if
+you're considering the more serious (and considerably more expensive) research-grade option.
 
 [Check the current price on AliExpress →](https://s.click.aliexpress.com/e/_c4WCtRAF){: .cta-button}
 

@@ -10,16 +10,19 @@ Published so far:
    budget translation earbuds, smart water bottle, posture clip (reused tracked link from article 3),
    smart pet feeder. Titled around "budget" rather than a hard "$50" promise since one item runs
    slightly over depending on sales.
+6. Mini Robot Dogs: Toy-Tier vs Research-Grade (2026-08-07) — deeper dive on post 1's #5 item.
+   Originally planned as "Unitree vs Hengbot vs [X]" but pivoted to a tier comparison instead: no
+   Hengbot listings found on AliExpress, and Unitree's real price (~28,700 SEK) turned out to be
+   wildly different from the toy-tier robots post 1 actually links to. Also went back and corrected
+   post 1's item #5 text, which had implied Unitree-tier robots were "consumer-friendly" priced.
 
-All five are cross-linked to each other (see "Where to Start" / closing sections in each post).
+All six are cross-linked to each other (see "Where to Start" / closing sections in each post).
 
 ## Next up (same research/curation format, no fabricated hands-on testing claims)
 
-1. **Mini Robot Dogs Compared: Unitree vs Hengbot vs [X]** — deeper dive on post 1's #5 item,
-   higher purchase intent since it's a considered buy, not impulse.
-2. **AI Desktop Companions Beyond Eilik** — category roundup (Eilik-style desk robots), rides on
+1. **AI Desktop Companions Beyond Eilik** — category roundup (Eilik-style desk robots), rides on
    post 1's #1 item continuing to perform.
-3. **AI Camera Glasses: What They Can and Can't Do Yet** — expands post 1's #3 item, sets
+2. **AI Camera Glasses: What They Can and Can't Do Yet** — expands post 1's #3 item, sets
    realistic expectations (good for trust/SEO, lower hype = more credible reviews).
 
 ## Format reminder for future posts

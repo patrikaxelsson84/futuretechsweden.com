@@ -17,6 +17,8 @@ Here are five categories worth paying attention to.
 
 ## 1. AI Robot Vacuums With Real Obstacle Avoidance
 
+![AI robot vacuum with LiDAR navigation](/assets/images/products/vacuum.webp){: .product-image}
+
 The latest robot vacuums from brands like Roborock and Dreame use onboard cameras and AI object
 recognition to identify and steer around cables, pet waste, and shoes — not just bump into them
 like older models. Many also build a live 3D map of your home to plan cleaning routes room by
@@ -32,6 +34,8 @@ stuck — this generation solves the exact problem that turned people off.
 [Check current models on AliExpress →](https://s.click.aliexpress.com/e/_c3XTutXN){: .cta-button}
 
 ## 2. mmWave AI Presence Sensors
+
+![mmWave AI presence sensor](/assets/images/products/presence.webp){: .product-image}
 
 Sensors like Aqara's presence sensor line use mmWave radar plus an AI processing layer to detect
 not just "someone is in the room" but where they are, whether they're sitting or standing, and how
@@ -49,6 +53,8 @@ turning off mid-use.
 
 ## 3. AI Video Doorbells With Person/Package Detection
 
+![AI video doorbell with person detection](/assets/images/products/doorbell.webp){: .product-image}
+
 Newer video doorbells filter notifications through an AI model that distinguishes between a
 person, a delivery, a car, and a passing animal — instead of pinging your phone every time a leaf
 blows past the camera.
@@ -62,6 +68,8 @@ false notifications.
 [Check current models on AliExpress →](https://s.click.aliexpress.com/e/_c4SUpFHD){: .cta-button}
 
 ## 4. AI Air Quality & Climate Monitors
+
+![AI air quality monitor](/assets/images/products/airquality.webp){: .product-image}
 
 Small sensor pucks that track CO2, humidity, PM2.5, and temperature, then use an AI model to
 recognize patterns — like CO2 climbing during sleep — and suggest or automatically trigger
@@ -77,6 +85,8 @@ anyone who's noticed feeling groggy in a closed-up bedroom.
 [Check current models on AliExpress →](https://s.click.aliexpress.com/e/_c3wVmCpV){: .cta-button}
 
 ## 5. AI Smart Locks With Facial/Behavioral Recognition
+
+![AI smart lock with facial recognition](/assets/images/products/lock.webp){: .product-image}
 
 Beyond fingerprint and PIN entry, newer smart locks add camera-based AI recognition that can tell
 apart household members and flag unfamiliar faces lingering at the door, logging events with

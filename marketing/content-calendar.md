@@ -18,13 +18,22 @@ Published so far:
 7. 4 AI Desktop Companions Beyond Eilik (2026-08-07) — Loona, Emo, Ropet, Kbao. Went with 4 items
    instead of forcing a 5th mediocre pick since these were the genuinely verifiable, distinct
    real product lines found. Noted that Emo/Ropet listing prices vary a lot between sellers.
+8. AI Camera Glasses: What They Can and Can't Do Yet (2026-08-07) — expectation-setting piece, not
+   a listicle. Covers real strengths (photo/video capture, translation) vs. overhyped claims
+   (battery life, "AR display" marketing on audio-only glasses, scene understanding). Reuses
+   article 1's already-tracked smart glasses link rather than adding a new product.
 
-All seven are cross-linked to each other (see "Where to Start" / closing sections in each post).
+All eight are cross-linked to each other (see "Where to Start" / closing sections in each post).
 
 ## Next up (same research/curation format, no fabricated hands-on testing claims)
 
-1. **AI Camera Glasses: What They Can and Can't Do Yet** — expands post 1's #3 item, sets
-   realistic expectations (good for trust/SEO, lower hype = more credible reviews).
+All ideas from the original queue are now published. Next batch of ideas to brainstorm when
+picking this back up:
+- Deeper dives on smart home sub-categories (e.g. robot vacuum buying guide, comparing mmWave vs
+  PIR presence sensors in more depth)
+- Seasonal/timely angle once there's a relevant hook (holiday gift guide, etc.)
+- Revisit thin-affiliate-coverage items (Eilik, AliExpress translator device niche) periodically —
+  enrollment status can change over time
 
 ## Format reminder for future posts
 - 5-item listicle, ~600-900 words, same structure as posts 1-2: intro → per-item (what/why

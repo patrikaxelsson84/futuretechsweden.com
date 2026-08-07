@@ -72,3 +72,8 @@ File: `_posts/2026-08-07-ai-desktop-companions-beyond-eilik.md`
 2. **Emo** — [needs tracking](https://www.aliexpress.com/item/1005012526809705.html)
 3. **Ropet** — [needs tracking](https://www.aliexpress.com/item/1005010616915909.html)
 4. **Kbao** — [needs tracking](https://www.aliexpress.com/item/1005007032217469.html)
+
+## Article 8 — AI Camera Glasses: What They Can and Can't Do Yet ✅ tracked
+File: `_posts/2026-08-07-ai-camera-glasses-what-they-can-and-cant-do.md`
+
+Reuses article 1's already-tracked smart glasses link — no new tracking needed.

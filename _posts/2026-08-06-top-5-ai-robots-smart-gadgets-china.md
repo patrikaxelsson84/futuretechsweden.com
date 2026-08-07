@@ -67,6 +67,9 @@ meetings, and anyone who finds pulling out a phone constantly disruptive.
 
 [Check the current price on AliExpress →](https://s.click.aliexpress.com/e/_c3vn85uP){: .cta-button}
 
+Before you buy, it's worth knowing exactly what this category can and can't do yet —
+[we broke it down in detail]({{ '/ai-camera-glasses-what-they-can-and-cant-do/' | relative_url }}).
+
 ## 4. AI Pocket Notetakers
 
 These are small, often MagSafe-compatible recorders that clip onto your phone or sit on a table

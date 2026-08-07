@@ -17,6 +17,8 @@ budget territory, roughly $50 or under at time of writing (some closer to $10-15
 
 ## 1. Smart Plug With Energy Monitoring
 
+![Smart plug with energy monitoring](/assets/images/products/smartplug.webp){: .product-image}
+
 A WiFi smart plug that doesn't just turn things on and off remotely — it tracks how much power
 whatever's plugged into it is actually using over time, and can flag unusual consumption patterns
 (like a device drawing power it shouldn't be, hours after you thought you turned it off).
@@ -30,6 +32,8 @@ use is going in a home, without an electrician or a whole-home monitoring system
 [Check the current price on AliExpress →](https://s.click.aliexpress.com/e/_c3nceWGT){: .cta-button}
 
 ## 2. Budget AI Translation Earbuds
+
+![Budget AI translation earbuds](/assets/images/products/budgetearbuds.webp){: .product-image}
 
 A more affordable entry point into the real-time translation earbud category we've covered before
 — fewer languages and a slightly less polished app than premium options, but the core function
@@ -45,6 +49,8 @@ if you're translating constantly, the premium models are worth the extra cost.
 
 ## 3. Smart Water Bottle With Drink Reminders
 
+![Smart water bottle with drink reminders](/assets/images/products/waterbottle.webp){: .product-image}
+
 An insulated bottle with a small display that tracks intake, shows temperature, and reminds you to
 drink based on time elapsed rather than a fixed schedule — some models add UV self-cleaning too.
 
@@ -59,6 +65,8 @@ this removes the extra step entirely.
 
 ## 4. AI Posture Corrector Clip
 
+![AI posture corrector clip](/assets/images/products/posture.webp){: .product-image}
+
 A small clip-on sensor (same category we covered in our [wearables roundup]({{ '/ai-wearables-from-china/' | relative_url }}))
 that buzzes gently the moment it detects slouching, instead of waiting for you to check an app.
 
@@ -72,6 +80,8 @@ before considering anything more expensive.
 [Check the current price on AliExpress →](https://s.click.aliexpress.com/e/_c2wMhNsB){: .cta-button}
 
 ## 5. Smart Pet Feeder With Camera
+
+![Smart pet feeder with camera](/assets/images/products/petfeeder.webp){: .product-image}
 
 Sits right at the edge of this budget range (occasionally a little over, depending on sales) but
 earns its spot — a WiFi pet feeder with a built-in camera and app control, so you can check in on

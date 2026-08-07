@@ -60,11 +60,13 @@ gadget-y package — including for kids, where a plush shell is a practical plus
 
 [Check the current price on AliExpress →](https://s.click.aliexpress.com/e/_c4sc6zRz){: .cta-button}
 
-## 4. Kbao
+## 4. Budget ChatGPT-Voice Companions
 
-Kbao is a smaller, simpler ChatGPT-voice-interactive desktop toy — less mobility and fewer sensors
-than Loona, but a straightforward conversational companion aimed at a broader "cute desk toy"
-audience rather than a tech-hobbyist one.
+Beyond the named product lines above, a wider tier of smaller, simpler ChatGPT-voice-interactive
+desktop toys exists — less mobility and fewer sensors than Loona, but a straightforward
+conversational companion aimed at a broader "cute desk toy" audience rather than a tech-hobbyist
+one. Brands in this tier change often, so it's worth comparing a couple of current listings rather
+than chasing one specific name.
 
 **Why it's interesting:** It's a lower-commitment way to try a genuinely conversational (not just
 reactive) desk companion, without Loona's price tag or Ropet's plush-toy framing.

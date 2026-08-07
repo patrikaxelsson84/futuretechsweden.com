@@ -67,10 +67,9 @@ File: `_posts/2026-08-07-ai-desktop-companions-beyond-eilik.md`
    "non-affiliate item")
 2. **Emo** — tracked ✅
 3. **Ropet** — tracked ✅ (swapped to an alternative Ropet listing, same reason)
-4. **Kbao** — tracked ✅ ⚠️ swapped to a different, unbranded "ChatGPT AI companion toy" listing
-   after every Kbao-branded listing failed "non-affiliate item" — article text still says "Kbao"
-   by name. The generic description still fits the linked product, but worth a look/rename if
-   brand accuracy matters here, same as the RingConn note in article 3.
+4. **Budget ChatGPT-voice companion** — tracked ✅ (retitled from "Kbao" to a generic category
+   description after every Kbao-branded listing failed "non-affiliate item" — article text now
+   matches the actual linked product, no mismatch)
 
 ## Article 8 — AI Camera Glasses: What They Can and Can't Do Yet ✅ tracked
 File: `_posts/2026-08-07-ai-camera-glasses-what-they-can-and-cant-do.md`

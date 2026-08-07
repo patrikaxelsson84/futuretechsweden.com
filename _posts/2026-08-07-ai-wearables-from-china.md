@@ -90,7 +90,7 @@ obvious to the owner.
 **Who it's for:** Pet owners who want more than a GPS tracker — something that also flags
 behavior changes, especially useful for older pets.
 
-[Check current models on AliExpress →](https://www.aliexpress.com/item/1005012370545335.html){: .cta-button}
+[Check current models on AliExpress →](https://s.click.aliexpress.com/e/_c31hrrGr){: .cta-button}
 
 ## Where to Start
 

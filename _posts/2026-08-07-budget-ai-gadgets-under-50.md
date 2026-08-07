@@ -41,7 +41,7 @@ becomes a "why not just get one" impulse buy for an upcoming trip rather than a 
 **Who it's for:** Occasional travelers who want translation as a backup, not a primary daily tool —
 if you're translating constantly, the premium models are worth the extra cost.
 
-[Check the current price on AliExpress →](https://www.aliexpress.com/item/1005012357897015.html){: .cta-button}
+[Check the current price on AliExpress →](https://s.click.aliexpress.com/e/_c4kLwoP1){: .cta-button}
 
 ## 3. Smart Water Bottle With Drink Reminders
 

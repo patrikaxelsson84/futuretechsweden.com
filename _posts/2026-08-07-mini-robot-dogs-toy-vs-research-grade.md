@@ -30,7 +30,7 @@ decision-making.
 **Who it's for:** Kids, gift buyers, and anyone who wants a fun desk/shelf robot without a real
 technical project attached to it.
 
-[Check current toy-tier models on AliExpress →](https://www.aliexpress.com/item/1005010132836497.html){: .cta-button}
+[Check current toy-tier models on AliExpress →](https://s.click.aliexpress.com/e/_c3CHYDnl){: .cta-button}
 
 ## Research-Grade (roughly $2,500+)
 

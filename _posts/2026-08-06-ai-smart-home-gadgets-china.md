@@ -74,7 +74,7 @@ acting on.
 **Who it's for:** People in newer, well-sealed apartments where ventilation isn't automatic, and
 anyone who's noticed feeling groggy in a closed-up bedroom.
 
-[Check current models on AliExpress →](https://www.aliexpress.com/item/1005012218241666.html){: .cta-button}
+[Check current models on AliExpress →](https://s.click.aliexpress.com/e/_c3wVmCpV){: .cta-button}
 
 ## 5. AI Smart Locks With Facial/Behavioral Recognition
 

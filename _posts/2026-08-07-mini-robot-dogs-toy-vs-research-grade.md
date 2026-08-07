@@ -48,7 +48,7 @@ hardware rather than a toy motor and a plastic shell.
 **Who it's for:** Robotics hobbyists, students, and developers who want a real platform to build on
 — not a purchase to make on impulse.
 
-[Check the current price on AliExpress →](https://www.aliexpress.com/item/1005012704498259.html){: .cta-button}
+[Check the current price on AliExpress →](https://s.click.aliexpress.com/e/_c4rFZ9Uf){: .cta-button}
 
 ## Where's the middle ground?
 

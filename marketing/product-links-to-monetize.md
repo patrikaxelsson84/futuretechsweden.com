@@ -54,13 +54,11 @@ File: `_posts/2026-08-07-budget-ai-gadgets-under-50.md`
    item — identical product, no new link needed)
 5. **Smart Pet Feeder w/ Camera** — tracked ✅
 
-## Article 6 — Mini Robot Dogs: Toy-Tier vs Research-Grade — needs tracking (0/2)
+## Article 6 — Mini Robot Dogs: Toy-Tier vs Research-Grade ✅ all tracked
 File: `_posts/2026-08-07-mini-robot-dogs-toy-vs-research-grade.md`
 
-1. **Toy-tier robot dog** — [needs tracking](https://www.aliexpress.com/item/1005010132836497.html)
-   (Teeggi RC Mechanical Dog — different listing than article 1's robot dog, for variety)
-2. **Unitree Go2 Pro** (research-grade) — [needs tracking](https://www.aliexpress.com/item/1005012704498259.html)
-   (~28,700 SEK — genuinely expensive, this is accurate to the real product, not a pricing error)
+1. **Toy-tier robot dog** (Teeggi RC Mechanical Dog) — tracked ✅
+2. **Unitree Go2 Pro** (research-grade) — tracked ✅
 
 ## Article 7 — AI Desktop Companions Beyond Eilik — needs tracking (0/4)
 File: `_posts/2026-08-07-ai-desktop-companions-beyond-eilik.md`

@@ -43,7 +43,7 @@ Prices for Emo-branded listings vary a lot between sellers, so compare a few bef
 **Who it's for:** Anyone who found Eilik's personality engine interesting but wants a companion
 that visibly changes over a longer relationship, not just a mood that resets.
 
-[Check the current price on AliExpress →](https://www.aliexpress.com/item/1005012526809705.html){: .cta-button}
+[Check the current price on AliExpress →](https://s.click.aliexpress.com/e/_c4WqKu8F){: .cta-button}
 
 ## 3. Ropet
 

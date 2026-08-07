@@ -32,7 +32,7 @@ no cloud lag, no "thinking" delay you get with app-based AI toys.
 for tech-loving friends, students, and anyone who works from home and wants a bit of personality
 nearby.
 
-[Check the current price on AliExpress →](AFFILIATE_LINK_EILIK){: .cta-button}
+[Check the current price on AliExpress →](https://www.aliexpress.com/item/1005012721004048.html){: .cta-button}
 
 ## 2. AI Translation Earbuds
 
@@ -47,7 +47,7 @@ conversation than a translation app.
 **Who it's for:** Frequent travelers, international students, and anyone doing business across
 language barriers who wants something less clunky than a translation app.
 
-[Check the current price on AliExpress →](AFFILIATE_LINK_EARBUDS){: .cta-button}
+[Check the current price on AliExpress →](https://www.aliexpress.com/item/1005009945946876.html){: .cta-button}
 
 ## 3. AI Smart Glasses
 
@@ -62,7 +62,7 @@ speakers or bone conduction.
 **Who it's for:** People who want a genuinely hands-free AI assistant — useful for travel,
 meetings, and anyone who finds pulling out a phone constantly disruptive.
 
-[Check the current price on AliExpress →](AFFILIATE_LINK_GLASSES){: .cta-button}
+[Check the current price on AliExpress →](https://www.aliexpress.com/item/1005011747518509.html){: .cta-button}
 
 ## 4. AI Pocket Notetakers
 
@@ -77,7 +77,7 @@ out.
 **Who it's for:** Students, journalists, and anyone in back-to-back meetings who wants notes
 without the manual write-up afterward.
 
-[Check the current price on AliExpress →](AFFILIATE_LINK_NOTETAKER){: .cta-button}
+[Check the current price on AliExpress →](https://www.aliexpress.com/item/1005009726389497.html){: .cta-button}
 
 ## 5. Mini AI Robot Dogs
 
@@ -94,7 +94,7 @@ just buy a gadget.
 **Who it's for:** Tech enthusiasts, robotics hobbyists, and parents looking for a gift that
 teaches actual programming concepts, not just a toy.
 
-[Check the current price on AliExpress →](AFFILIATE_LINK_ROBOTDOG){: .cta-button}
+[Check the current price on AliExpress →](https://www.aliexpress.com/item/1005011931001260.html){: .cta-button}
 
 ## Which One Should You Actually Buy First?
 

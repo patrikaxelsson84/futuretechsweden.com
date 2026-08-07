@@ -29,7 +29,7 @@ lot of people gave up on them. AI-based obstacle recognition is the feature that
 **Who it's for:** Anyone who tried a robot vacuum years ago and got frustrated with it getting
 stuck — this generation solves the exact problem that turned people off.
 
-[Check current models on AliExpress →](AFFILIATE_LINK_VACUUM){: .cta-button}
+[Check current models on AliExpress →](https://www.aliexpress.com/item/1005012385211784.html){: .cta-button}
 
 ## 2. mmWave AI Presence Sensors
 
@@ -45,7 +45,7 @@ switching off every 60 seconds.
 **Who it's for:** Anyone who has tried basic motion-sensor lighting and been irritated by it
 turning off mid-use.
 
-[Check current models on AliExpress →](AFFILIATE_LINK_PRESENCE){: .cta-button}
+[Check current models on AliExpress →](https://www.aliexpress.com/item/1005008605446877.html){: .cta-button}
 
 ## 3. AI Video Doorbells With Person/Package Detection
 
@@ -59,7 +59,7 @@ alerts entirely. AI filtering is what makes it practical to actually leave them 
 **Who it's for:** Apartment and house owners who want package/visitor alerts without a flood of
 false notifications.
 
-[Check current models on AliExpress →](AFFILIATE_LINK_DOORBELL){: .cta-button}
+[Check current models on AliExpress →](https://www.aliexpress.com/item/1005012751203637.html){: .cta-button}
 
 ## 4. AI Air Quality & Climate Monitors
 
@@ -74,7 +74,7 @@ acting on.
 **Who it's for:** People in newer, well-sealed apartments where ventilation isn't automatic, and
 anyone who's noticed feeling groggy in a closed-up bedroom.
 
-[Check current models on AliExpress →](AFFILIATE_LINK_AIRQUALITY){: .cta-button}
+[Check current models on AliExpress →](https://www.aliexpress.com/item/1005012218241666.html){: .cta-button}
 
 ## 5. AI Smart Locks With Facial/Behavioral Recognition
 
@@ -89,7 +89,7 @@ behavior looks normal.
 **Who it's for:** Families who want keyless entry for kids without giving up visibility into who's
 coming and going.
 
-[Check current models on AliExpress →](AFFILIATE_LINK_LOCK){: .cta-button}
+[Check current models on AliExpress →](https://www.aliexpress.com/item/1005010801009445.html){: .cta-button}
 
 ## Where to Start
 

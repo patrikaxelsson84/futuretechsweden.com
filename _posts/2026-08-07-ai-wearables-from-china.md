@@ -29,7 +29,7 @@ recovery scoring meaningfully more accurate than a device you only wear part-tim
 **Who it's for:** Anyone who wants sleep and recovery tracking without committing to a smartwatch
 on their wrist all day.
 
-[Check current models on AliExpress →](AFFILIATE_LINK_RING){: .cta-button}
+[Check current models on AliExpress →](https://www.aliexpress.com/item/1005012136973409.html){: .cta-button}
 
 ## 2. AI Fitness Bands With Real-Time Coaching
 
@@ -44,7 +44,7 @@ from yesterday, an easy day would help."
 **Who it's for:** People who want fitness guidance without paying smartwatch prices or subscribing
 to a coaching app.
 
-[Check current models on AliExpress →](AFFILIATE_LINK_FITNESSBAND){: .cta-button}
+[Check current models on AliExpress →](https://www.aliexpress.com/item/1005009411133355.html){: .cta-button}
 
 ## 3. Standalone AI Translator Pendants
 
@@ -60,7 +60,7 @@ option for occasional use.
 **Who it's for:** Travelers who want translation on demand without wearing earbuds all day, and
 older users who may find a physical push-to-talk device more intuitive than an earbud gesture.
 
-[Check current models on AliExpress →](AFFILIATE_LINK_TRANSLATOR){: .cta-button}
+[Check current models on AliExpress →](https://www.aliexpress.com/item/1005011773012045.html){: .cta-button}
 
 ## 4. AI Posture & Movement Wearables
 
@@ -75,7 +75,7 @@ it happens exactly when the bad habit does.
 **Who it's for:** Desk workers with recurring back or neck strain, and anyone recovering from an
 injury who's been told to watch their form.
 
-[Check current models on AliExpress →](AFFILIATE_LINK_POSTURE){: .cta-button}
+[Check current models on AliExpress →](https://www.aliexpress.com/item/1005012057937738.html){: .cta-button}
 
 ## 5. AI Smart Collars for Pets
 
@@ -90,7 +90,7 @@ obvious to the owner.
 **Who it's for:** Pet owners who want more than a GPS tracker — something that also flags
 behavior changes, especially useful for older pets.
 
-[Check current models on AliExpress →](AFFILIATE_LINK_PETCOLLAR){: .cta-button}
+[Check current models on AliExpress →](https://www.aliexpress.com/item/1005012370545335.html){: .cta-button}
 
 ## Where to Start
 

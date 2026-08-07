@@ -4,6 +4,7 @@ title: "5 AI-Powered Smart Home Gadgets From China Quietly Getting Really Good (
 subtitle: "Robot vacuums, presence sensors, and doorbells that finally think for themselves instead of just following a schedule."
 date: 2026-08-06
 categories: [smart-home]
+image: /assets/images/products/vacuum.webp
 ---
 
 > **Disclosure:** This article contains affiliate links. If you buy through them, we may earn a

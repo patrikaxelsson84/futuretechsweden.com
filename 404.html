@@ -13,13 +13,11 @@ permalink: /404.html
 
 <section id="articles" class="post-list">
   <h2>Latest articles</h2>
-  {% for post in site.posts limit:5 %}
-    <a class="post-card" href="{{ post.url | relative_url }}">
-      <span class="post-card-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-      <span class="post-card-title">{{ post.title }}</span>
-      {% if post.subtitle %}<span class="post-card-excerpt">{{ post.subtitle }}</span>{% endif %}
-    </a>
-  {% endfor %}
+  <div class="post-grid">
+    {% for post in site.posts limit:4 %}
+      {% include post-card.html post=post %}
+    {% endfor %}
+  </div>
 </section>
 
 <p><a href="{{ '/' | relative_url }}">← Back to homepage</a></p>

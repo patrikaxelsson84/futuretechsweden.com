@@ -1,0 +1,19 @@
+<a class="post-card" href="{{ include.post.url | relative_url }}">
+  {% if include.post.image %}
+    <span class="post-card-thumb">
+      <img src="{{ include.post.image | relative_url }}" alt="">
+    </span>
+  {% else %}
+    <span class="post-card-thumb post-card-thumb-fallback" aria-hidden="true">
+      <svg width="24" height="24" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="32" cy="32" r="20" fill="none" stroke="url(#brandGrad)" stroke-width="3"/>
+        <circle cx="32" cy="32" r="3" fill="url(#brandGrad)"/>
+      </svg>
+    </span>
+  {% endif %}
+  <span class="post-card-text">
+    <span class="post-card-date">{{ include.post.date | date: "%b %-d, %Y" }}</span>
+    <span class="post-card-title">{{ include.post.title }}</span>
+    {% if include.post.subtitle %}<span class="post-card-excerpt">{{ include.post.subtitle }}</span>{% endif %}
+  </span>
+</a>

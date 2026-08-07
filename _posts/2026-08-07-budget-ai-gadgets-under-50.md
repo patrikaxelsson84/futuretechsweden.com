@@ -4,6 +4,7 @@ title: "5 Budget AI Gadgets on AliExpress That Don't Feel Like a Compromise"
 subtitle: "You don't need to spend big to get something genuinely 'smart' — here's where the budget tier actually holds up."
 date: 2026-08-07
 categories: [ai-gadgets]
+image: /assets/images/products/smartplug.webp
 ---
 
 > **Disclosure:** This article contains affiliate links. If you buy through them, we may earn a

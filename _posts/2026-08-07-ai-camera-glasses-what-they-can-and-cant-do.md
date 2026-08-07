@@ -4,6 +4,7 @@ title: "AI Camera Glasses: What They Can and Can't Do Yet"
 subtitle: "The category is real and improving fast — but the marketing copy is usually a few years ahead of the hardware."
 date: 2026-08-07
 categories: [ai-gadgets]
+image: /assets/images/products/glasses.webp
 ---
 
 We mentioned [AI smart glasses]({{ '/top-5-ai-robots-smart-gadgets-china/' | relative_url }}) in

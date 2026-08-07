@@ -4,6 +4,7 @@ title: "Top 5 AI Robots and Smart Gadgets From China You Didn't Know Existed (20
 subtitle: "AI has left the screen and moved into physical objects — here's what's actually worth your attention."
 date: 2026-08-06
 categories: [ai-gadgets]
+image: /assets/images/products/eilik.webp
 ---
 
 > **Disclosure:** This article contains affiliate links. If you buy through them, we may earn a

@@ -4,6 +4,7 @@ title: "4 AI Desktop Companions Worth Knowing Beyond Eilik"
 subtitle: "Eilik started the conversation — these are the other desk robots actually having it."
 date: 2026-08-07
 categories: [ai-gadgets]
+image: /assets/images/products/loona.webp
 ---
 
 > **Disclosure:** This article contains affiliate links. If you buy through them, we may earn a

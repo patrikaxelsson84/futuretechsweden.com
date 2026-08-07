@@ -4,6 +4,7 @@ title: Home
 ---
 
 <section class="hero">
+  <p class="eyebrow">AI Gadgets · Smart Home · Wearables</p>
   <h1>Tomorrow's tech, spotted today.</h1>
   <p>
     We track the AI robots and smart gadgets coming out of Shenzhen and the rest of China —
@@ -11,15 +12,36 @@ title: Home
   </p>
 </section>
 
+{% assign featured = site.posts.first %}
+<section class="featured-post">
+  <a class="featured-card" href="{{ featured.url | relative_url }}">
+    <span class="featured-card-media">
+      {% if featured.image %}
+        <img src="{{ featured.image | relative_url }}" alt="{{ featured.title }}">
+      {% else %}
+        <svg width="48" height="48" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <circle cx="32" cy="32" r="24" fill="none" stroke="url(#brandGrad)" stroke-width="3"/>
+          <circle cx="32" cy="32" r="3.5" fill="url(#brandGrad)"/>
+        </svg>
+      {% endif %}
+    </span>
+    <span class="featured-card-body">
+      <span class="featured-card-eyebrow">
+        <span class="post-meta-tag">Latest</span>
+        <span class="featured-card-date">{{ featured.date | date: "%B %-d, %Y" }}</span>
+      </span>
+      <span class="featured-card-title">{{ featured.title }}</span>
+      {% if featured.subtitle %}<span class="featured-card-subtitle">{{ featured.subtitle }}</span>{% endif %}
+      <span class="featured-card-link">Read the article →</span>
+    </span>
+  </a>
+</section>
+
 <section id="articles" class="post-list">
-  <h2>Latest articles</h2>
-  {% for post in site.posts %}
-    <a class="post-card" href="{{ post.url | relative_url }}">
-      <span class="post-card-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-      <span class="post-card-title">{{ post.title }}</span>
-      {% if post.subtitle %}<span class="post-card-excerpt">{{ post.subtitle }}</span>{% endif %}
-    </a>
-  {% else %}
-    <p>No articles yet — check back soon.</p>
-  {% endfor %}
+  <h2>More articles</h2>
+  <div class="post-grid">
+    {% for post in site.posts offset: 1 %}
+      {% include post-card.html post=post %}
+    {% endfor %}
+  </div>
 </section>

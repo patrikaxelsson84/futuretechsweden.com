@@ -4,6 +4,7 @@ title: "Mini Robot Dogs: Toy-Tier vs Research-Grade — What Your Money Actually
 subtitle: "The price gap between a $30 robot dog and a real one isn't a typo — here's what you get at each level."
 date: 2026-08-07
 categories: [ai-gadgets]
+image: /assets/images/products/unitree.webp
 ---
 
 > **Disclosure:** This article contains affiliate links. If you buy through them, we may earn a

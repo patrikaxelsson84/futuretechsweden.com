@@ -64,3 +64,11 @@ File: `_posts/2026-08-07-mini-robot-dogs-toy-vs-research-grade.md`
    (Teeggi RC Mechanical Dog — different listing than article 1's robot dog, for variety)
 2. **Unitree Go2 Pro** (research-grade) — [needs tracking](https://www.aliexpress.com/item/1005012704498259.html)
    (~28,700 SEK — genuinely expensive, this is accurate to the real product, not a pricing error)
+
+## Article 7 — AI Desktop Companions Beyond Eilik — needs tracking (0/4)
+File: `_posts/2026-08-07-ai-desktop-companions-beyond-eilik.md`
+
+1. **Loona** — [needs tracking](https://www.aliexpress.com/item/1005009212005255.html)
+2. **Emo** — [needs tracking](https://www.aliexpress.com/item/1005012526809705.html)
+3. **Ropet** — [needs tracking](https://www.aliexpress.com/item/1005010616915909.html)
+4. **Kbao** — [needs tracking](https://www.aliexpress.com/item/1005007032217469.html)

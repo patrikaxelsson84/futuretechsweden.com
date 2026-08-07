@@ -34,6 +34,9 @@ nearby.
 
 [Check the current price on AliExpress →](https://s.click.aliexpress.com/e/_c4NBlpr5){: .cta-button}
 
+Liked the idea but want to see other options first? We compared
+[4 more AI desktop companions beyond Eilik]({{ '/ai-desktop-companions-beyond-eilik/' | relative_url }}).
+
 ## 2. AI Translation Earbuds
 
 A new generation of earbuds — from brands like Timekettle — now do real-time spoken translation

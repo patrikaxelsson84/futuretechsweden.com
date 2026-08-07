@@ -15,14 +15,15 @@ Published so far:
    Hengbot listings found on AliExpress, and Unitree's real price (~28,700 SEK) turned out to be
    wildly different from the toy-tier robots post 1 actually links to. Also went back and corrected
    post 1's item #5 text, which had implied Unitree-tier robots were "consumer-friendly" priced.
+7. 4 AI Desktop Companions Beyond Eilik (2026-08-07) — Loona, Emo, Ropet, Kbao. Went with 4 items
+   instead of forcing a 5th mediocre pick since these were the genuinely verifiable, distinct
+   real product lines found. Noted that Emo/Ropet listing prices vary a lot between sellers.
 
-All six are cross-linked to each other (see "Where to Start" / closing sections in each post).
+All seven are cross-linked to each other (see "Where to Start" / closing sections in each post).
 
 ## Next up (same research/curation format, no fabricated hands-on testing claims)
 
-1. **AI Desktop Companions Beyond Eilik** — category roundup (Eilik-style desk robots), rides on
-   post 1's #1 item continuing to perform.
-2. **AI Camera Glasses: What They Can and Can't Do Yet** — expands post 1's #3 item, sets
+1. **AI Camera Glasses: What They Can and Can't Do Yet** — expands post 1's #3 item, sets
    realistic expectations (good for trust/SEO, lower hype = more credible reviews).
 
 ## Format reminder for future posts

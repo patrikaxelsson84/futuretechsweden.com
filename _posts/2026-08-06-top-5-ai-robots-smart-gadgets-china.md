@@ -62,7 +62,7 @@ speakers or bone conduction.
 **Who it's for:** People who want a genuinely hands-free AI assistant — useful for travel,
 meetings, and anyone who finds pulling out a phone constantly disruptive.
 
-[Check the current price on AliExpress →](https://www.aliexpress.com/item/1005011747518509.html){: .cta-button}
+[Check the current price on AliExpress →](https://s.click.aliexpress.com/e/_c3vn85uP){: .cta-button}
 
 ## 4. AI Pocket Notetakers
 

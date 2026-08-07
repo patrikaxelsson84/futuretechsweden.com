@@ -242,10 +242,11 @@ main.wrap { max-width: 900px; padding-top: 48px; padding-bottom: 60px; }
 img.product-image {
   display: block;
   width: 100%;
+  max-width: 280px;
   height: auto;
+  margin: 22px auto 8px;
   border-radius: var(--radius);
   border: 1px solid var(--border);
-  margin: 22px 0 8px;
   box-shadow: 0 10px 34px -16px rgba(124, 92, 255, 0.45);
   transition: transform 0.4s var(--ease), box-shadow 0.4s var(--ease), border-color 0.4s var(--ease);
 }

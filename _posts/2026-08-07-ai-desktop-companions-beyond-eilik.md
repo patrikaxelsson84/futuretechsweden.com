@@ -58,7 +58,7 @@ screen-faced companions on this list.
 **Who it's for:** Gift buyers, and anyone who wants the "AI companion" idea in a softer, less
 gadget-y package — including for kids, where a plush shell is a practical plus.
 
-[Check the current price on AliExpress →](https://www.aliexpress.com/item/1005010616915909.html){: .cta-button}
+[Check the current price on AliExpress →](https://s.click.aliexpress.com/e/_c4sc6zRz){: .cta-button}
 
 ## 4. Kbao
 

@@ -54,7 +54,8 @@ File: `_posts/2026-08-07-ai-wearables-from-china.md`
    (246 sold, 63 reviews, 4.5★. Original pick had only 9 sold/3 reviews.
    Note: article mentions iFLYTEK as a category pioneer, but no exact iFLYTEK pendant listing was
    found — this is a comparable standalone touch-screen translator, not an iFLYTEK-branded unit.)
-4. **AI Posture Wearable** — [Neck Hump Corrector, Smart Vibration Reminder](https://www.aliexpress.com/item/1005012057937738.html)
+4. **AI Posture Wearable** — ⚠️ swapped — [Smart Posture Corrector Miicro, Vibration Training Reminder](https://www.aliexpress.com/item/1005012288471353.html)
+   (Original pick and one other alternative both failed "non-affiliate item" — this one worked.)
 5. **AI Pet Collar** — [4G GPS Pet Tracker with AI Health Monitor](https://www.aliexpress.com/item/1005012370545335.html)
 
 Not individually re-verified after the initial pick (ran out of time before wrap-up — worth a

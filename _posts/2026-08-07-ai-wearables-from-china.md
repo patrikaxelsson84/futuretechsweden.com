@@ -75,7 +75,7 @@ it happens exactly when the bad habit does.
 **Who it's for:** Desk workers with recurring back or neck strain, and anyone recovering from an
 injury who's been told to watch their form.
 
-[Check current models on AliExpress →](https://www.aliexpress.com/item/1005012057937738.html){: .cta-button}
+[Check current models on AliExpress →](https://s.click.aliexpress.com/e/_c2wMhNsB){: .cta-button}
 
 ## 5. AI Smart Collars for Pets
 

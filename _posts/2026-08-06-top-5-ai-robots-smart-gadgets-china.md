@@ -20,6 +20,8 @@ ones worth knowing about right now.
 
 ## 1. Eilik — The AI Desktop Companion Robot
 
+![Eilik AI desktop companion robot](/assets/images/products/eilik.webp){: .product-image}
+
 Eilik, made by Energize Lab, is a small screen-faced robot that sits on your desk and reacts to
 touch, sound, and its surroundings. It doesn't do productivity tasks — it's built purely to be a
 tiny, expressive companion. Pat it and it lights up happy; ignore it too long and its face turns
@@ -39,6 +41,8 @@ Liked the idea but want to see other options first? We compared
 
 ## 2. AI Translation Earbuds
 
+![AI real-time translation earbuds](/assets/images/products/earbuds.webp){: .product-image}
+
 A new generation of earbuds — from brands like Timekettle — now do real-time spoken translation
 directly in your ear, powered by on-device and cloud AI language models. Speak in Swedish, and the
 person across from you hears English (or vice versa) within a second or two.
@@ -53,6 +57,8 @@ language barriers who wants something less clunky than a translation app.
 [Check the current price on AliExpress →](https://s.click.aliexpress.com/e/_c3y4Sg9N){: .cta-button}
 
 ## 3. AI Smart Glasses
+
+![AI smart glasses with built-in camera](/assets/images/products/glasses.webp){: .product-image}
 
 Smart glasses with a built-in camera and AI assistant can now identify what you're looking at,
 translate text on signs and menus in real time, and transcribe conversations or meetings — all
@@ -72,6 +78,8 @@ Before you buy, it's worth knowing exactly what this category can and can't do y
 
 ## 4. AI Pocket Notetakers
 
+![AI pocket voice recorder and notetaker](/assets/images/products/notetaker.webp){: .product-image}
+
 These are small, often MagSafe-compatible recorders that clip onto your phone or sit on a table
 during meetings and lectures. They record audio, then use AI to transcribe, summarize, and
 organize it into notes automatically.
@@ -86,6 +94,8 @@ without the manual write-up afterward.
 [Check the current price on AliExpress →](https://s.click.aliexpress.com/e/_c3bEgsG7){: .cta-button}
 
 ## 5. Mini AI Robot Dogs
+
+![Mini AI robot dog](/assets/images/products/robotdog.webp){: .product-image}
 
 Small robotic quadrupeds that walk, balance, and respond to voice or app commands now exist at two
 very different price points: toy-tier versions built for fun, and research-grade platforms from

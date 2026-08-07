@@ -28,7 +28,7 @@ ornament.
 **Who it's for:** Buyers who want a companion that does more than sit on a desk and react to
 touch, and don't mind paying a premium for the extra mobility and conversational ability.
 
-[Check the current price on AliExpress →](https://www.aliexpress.com/item/1005009212005255.html){: .cta-button}
+[Check the current price on AliExpress →](https://s.click.aliexpress.com/e/_c4smTV27){: .cta-button}
 
 ## 2. Emo
 

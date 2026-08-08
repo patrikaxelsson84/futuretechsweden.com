@@ -62,5 +62,7 @@ is one uniform thing.
 
 [Check current models on AliExpress →](https://s.click.aliexpress.com/e/_c3vn85uP){: .cta-button}
 
+Curious what else is in that first roundup? See the [full list of AI robots and gadgets]({{ '/top-5-ai-robots-smart-gadgets-china/' | relative_url }}).
+
 *Prices and availability on AliExpress change frequently — click through for the current price
 before buying.*

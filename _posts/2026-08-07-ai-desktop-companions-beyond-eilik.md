@@ -20,7 +20,7 @@ mean. Here are four more worth knowing about.
 
 ![Loona AI desktop companion robot](/assets/images/products/loona.webp){: .product-image}
 
-Loona pairs a expressive, animated screen-face with real mobility — it rolls around, recognizes
+Loona pairs an expressive, animated screen-face with real mobility — it rolls around, recognizes
 faces, and can hold basic ChatGPT-powered conversations rather than just reacting with animations.
 It's a noticeably bigger step up in capability (and price) than Eilik.
 

@@ -75,3 +75,13 @@ File: `_posts/2026-08-07-ai-desktop-companions-beyond-eilik.md`
 File: `_posts/2026-08-07-ai-camera-glasses-what-they-can-and-cant-do.md`
 
 Reuses article 1's already-tracked smart glasses link — no new tracking needed.
+
+## Article 9 — AI Kitchen Gadgets From China — needs tracking (0/5)
+File: `_posts/2026-08-08-ai-kitchen-gadgets-from-china.md`
+
+1. **AI Air Fryer** — [needs tracking](https://www.aliexpress.com/item/1005012793891342.html)
+2. **App-Connected Espresso Machine** — [needs tracking](https://www.aliexpress.com/item/1005008782250217.html)
+3. **Midea Smart Rice Cooker** — [needs tracking](https://www.aliexpress.com/item/1005012729987818.html)
+   (Midea is a real major appliance brand — good odds of affiliate enrollment)
+4. **Smart Kitchen Scale** — [needs tracking](https://www.aliexpress.com/item/1005010759317974.html)
+5. **BioloMix Sous Vide Circulator** — [needs tracking](https://www.aliexpress.com/item/1005009984766848.html)

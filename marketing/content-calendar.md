@@ -22,18 +22,20 @@ Published so far:
    a listicle. Covers real strengths (photo/video capture, translation) vs. overhyped claims
    (battery life, "AR display" marketing on audio-only glasses, scene understanding). Reuses
    article 1's already-tracked smart glasses link rather than adding a new product.
+9. 5 AI Kitchen Gadgets From China Actually Worth Using (2026-08-08) — air fryer, espresso machine,
+   Midea smart rice cooker, kitchen scale, BioloMix sous vide. New category, first kitchen-focused
+   piece on the site. Cross-linked from articles 2 and 5.
 
-All eight are cross-linked to each other (see "Where to Start" / closing sections in each post).
+All nine are cross-linked to each other (see "Where to Start" / closing sections in each post).
 
 ## Next up (same research/curation format, no fabricated hands-on testing claims)
 
-All ideas from the original queue are now published. Next batch of ideas to brainstorm when
-picking this back up:
 - Deeper dives on smart home sub-categories (e.g. robot vacuum buying guide, comparing mmWave vs
   PIR presence sensors in more depth)
 - Seasonal/timely angle once there's a relevant hook (holiday gift guide, etc.)
 - Revisit thin-affiliate-coverage items (Eilik, AliExpress translator device niche) periodically —
   enrollment status can change over time
+- More kitchen items if this category performs well: smart blender, AI oven, coffee grinder
 
 ## Format reminder for future posts
 - 5-item listicle, ~600-900 words, same structure as posts 1-2: intro → per-item (what/why

@@ -113,7 +113,9 @@ Looking for gadgets you carry rather than install? Check our roundup of
 [AI wearables from China]({{ '/ai-wearables-from-china/' | relative_url }}), or our
 [guide to shipping, VAT, and returns for Sweden/EU buyers]({{ '/buying-from-aliexpress-sweden-eu-guide/' | relative_url }})
 if this is your first AliExpress order. On a tighter budget? See our picks for
-[budget AI gadgets under $50]({{ '/budget-ai-gadgets-under-50/' | relative_url }}).
+[budget AI gadgets under $50]({{ '/budget-ai-gadgets-under-50/' | relative_url }}), or check out
+[AI kitchen gadgets from China]({{ '/ai-kitchen-gadgets-from-china/' | relative_url }}) if you're
+outfitting more than the living room.
 
 *Prices and availability on AliExpress change frequently — click through for the current price
 before buying.*

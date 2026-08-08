@@ -104,5 +104,8 @@ bigger smart home setup. If you're already committed to buying something on this
 the **posture corrector** has the best track record of actually changing a habit rather than just
 tracking one.
 
+More into the kitchen than the desk? See our roundup of
+[AI kitchen gadgets from China]({{ '/ai-kitchen-gadgets-from-china/' | relative_url }}).
+
 *Prices and availability on AliExpress change frequently and vary with ongoing sales — click
 through for the current price before buying.*

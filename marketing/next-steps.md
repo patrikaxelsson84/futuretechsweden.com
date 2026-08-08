@@ -48,6 +48,11 @@ The original 8-article queue is done. Next real ideas once ready for another con
 - Amazon Associates account needs at least one qualifying sale within 180 days of signup
   (2026-08-07) or the application gets withdrawn — worth actively promoting the site well before
   early February 2027.
+- Confirmed `og:image`/social share previews are working automatically (jekyll-seo-tag picks up
+  the `image:` front matter on each post) — but the images are `.webp`, which has slightly patchy
+  support on some link-preview crawlers (LinkedIn especially, historically). Low priority since
+  major platforms (Facebook, X, Discord, Slack, iMessage) handle webp fine now — only worth
+  converting to JPG if you ever notice a broken share preview somewhere specific.
 
 ## Not urgent, skip for now
 
